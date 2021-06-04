@@ -5,6 +5,7 @@ public://the class  should be in public
 int x,y;//instance variable’s
 pavan(){       //constructor
 x=10;
+  
 y=5;
 }
 
